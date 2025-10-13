@@ -1,6 +1,5 @@
-# Career Transition to Industry CV Engineering
+# Career Transition Profile
 
-I am transitioning from a research background to the industry role of Computer Vision (CV) Engineering.
 This document tracks my progress and key projects.
   
 ## Public Projects
