@@ -5,7 +5,7 @@ This document tracks my progress and key projects.
 ## Public Projects
 
 - **coding_preparing**: Continuous improvement of Data Structures and Algorithms (DSA) skills.
-- **netlify_test**: A front-end web service that provides mental support resources for unemployed individuals with LLM & RAG.
+- **netlify_consultant**: A front-end web service that provides mental support resources for unemployed individuals with LLM & RAG.
 - **immPercepTestEnv**: A VR environment for subjective evaluation base on standard testflow. (by C#, unity development)
 - **stockPrice_dataCollection**: A Taiwan stock collection project to retrieve and provide useful data for stock transaction. (on-going)
 
